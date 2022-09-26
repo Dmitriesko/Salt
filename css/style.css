@@ -219,6 +219,7 @@ header {
     width: 19px;
     height: 22px;
     background: url("../img/dots.svg");
+    cursor: pointer;
 }
 
 .slider .slick-dots li.slick-active button {
